@@ -19,5 +19,5 @@ so that our own site is optimized for search engines</li>
 <li>THEN I find a concise, descriptive title</li>
 
 <h4>Link to site and repository </h4>
-Repo:
-Site: 
+Repo:https://github.com/mikaylaakelly/module-one-challenge
+Site: https://mikaylaakelly.github.io/module-one-challenge/
