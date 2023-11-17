@@ -17,3 +17,7 @@ so that our own site is optimized for search engines</li>
 <li>THEN they fall in sequential order</li>
 <li>WHEN I view the title element</li>
 <li>THEN I find a concise, descriptive title</li>
+
+<h4>Link to site and repository </h4>
+Repo:
+Site: 
